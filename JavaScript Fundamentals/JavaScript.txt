@@ -1,0 +1,14 @@
+
+SEGURIDAD Y CONSTRUCCION PARA LA PRODUCCION
+
+prevent man-in-the-middle attacks
+
+use SSL
+use HTTP Header: Strict-Transport-Security
+use cookie attributes: Secure an HttpOnly
+
+--- Addressing Cross-site Scripting Attacks
+
+CSP: Content Security Policy
+
+CORS: Cross Origin Resource Sharing
